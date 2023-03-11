@@ -1,2 +1,2 @@
 # wusheng233-netdisk
-你好世界!
+说明和源码在zip压缩包里
